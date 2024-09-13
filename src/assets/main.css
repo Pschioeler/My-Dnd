@@ -1,0 +1,19 @@
+:root {
+    --primary: #822000;
+    --primary-hover: #EBE1AD;
+    --primary-fade: #f4f4f4b9;
+    --secondary: #132235;
+    --tertiary: #d2f3ff;
+    --text: #1b232e;
+    --overlay: #e4e4e4;
+    --bg: #ffffff;
+    --background: #F5F1EA;
+    --green-1: #38fe2a;
+    --red-1: #FF010B;
+    --lightbrown: #EBE2D3;
+    --active: #c5b8a2;
+}
+
+body {
+    background-color: var(--background);
+}
